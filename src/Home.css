@@ -1,0 +1,11 @@
+.headerText
+{
+    font-family: "Lexend", system-ui;
+    font-size: 48pt;
+    font-weight: 600;
+    margin: 1rem 1rem;
+    margin-bottom: 1rem;
+
+    padding-bottom: 0.5rem;
+    border-bottom: 0.25rem solid black;
+}

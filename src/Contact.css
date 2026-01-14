@@ -1,0 +1,53 @@
+.ContactPage
+{
+    padding: 1rem 4rem;
+}
+
+.ContactTitle
+{
+    font-family: "Lexend", system-ui;
+    font-size: 52pt;
+    font-weight: 550;
+    margin: 1rem 0rem;
+}
+
+.ContactContent
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.ContactElement
+{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+.ContactLogos 
+{
+    display: flex;
+}
+
+.ContactLogos a
+{
+    width: 5rem;
+    margin-right: 1rem;
+}   
+
+.ContactLogos a img
+{
+    width: 100%;
+}
+
+
+
+.ContactElement a
+{
+    font-family: "Lexend", system-ui;
+    font-size: 40pt;
+    font-weight: 550;
+
+    text-decoration: none;
+}

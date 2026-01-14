@@ -1,0 +1,79 @@
+.projectContainer
+{
+    overflow: hidden;
+
+    margin-top: 2rem;
+}
+
+.projectHeader
+{
+    margin-left: 2rem;
+    border-left: 1rem solid rgb(70, 70, 255);
+    padding-left: 2rem;
+}
+
+.projectInfo
+{
+    display: flex;
+}
+
+h2
+{
+    font-family: "Lexend", system-ui;
+    font-size: 32pt;
+    font-weight: 450;
+    margin: 1rem 0rem;
+}
+
+h4
+{
+    font-family: "Lexend", system-ui;
+    font-size: 20pt;
+    color:#222222;
+    font-weight: 350;
+    margin: 1rem 0rem;
+}
+
+.projectImage
+{
+    padding: 2rem 2rem;
+    height: 65%;
+    max-width: 65%;
+    display: block;
+    margin: auto;
+}
+
+.projectDescription
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.projectDescription h3
+{
+    flex: 4;
+    font-family: "Lexend", system-ui;
+    font-size: 24pt;
+    font-weight: 300;
+    margin: 1rem 0rem;
+    margin-right: 2%;
+}
+
+
+
+.projectButtons
+{
+    margin: 1rem 2rem;
+    height: 3rem;
+    text-align: center;
+
+    line-height: 3rem;    
+
+    font-family: "Lexend", system-ui;
+    font-size: 18pt;
+    font-weight: 400;
+
+    color: black;
+    background-color: skyblue;
+    text-decoration: none;
+}

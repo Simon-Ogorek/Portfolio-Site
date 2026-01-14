@@ -1,0 +1,32 @@
+.AboutMeContainer
+{
+    display: flex;
+    justify-content: space-between;
+    width: fit-content;
+}
+
+.AboutMeContainer img
+{
+    display: block;
+    flex: 1;
+    padding: 4rem;
+    height: 40rem;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.AboutMeContainer div
+{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-right: 2rem;
+}
+
+.AboutMeDescription p
+{
+    font-family: "Lexend", system-ui;
+    font-size: 24pt;
+    font-weight: 300;
+}
