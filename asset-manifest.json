@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simon-ogorek.github.io/static/css/main.d36f03aa.css",
+    "main.js": "/simon-ogorek.github.io/static/js/main.bf2c7c32.js",
+    "index.html": "/simon-ogorek.github.io/index.html",
+    "main.d36f03aa.css.map": "/simon-ogorek.github.io/static/css/main.d36f03aa.css.map",
+    "main.bf2c7c32.js.map": "/simon-ogorek.github.io/static/js/main.bf2c7c32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d36f03aa.css",
+    "static/js/main.bf2c7c32.js"
+  ]
+}
